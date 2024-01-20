@@ -6,3 +6,14 @@ defaults:
       type: "posts"
     values:
       image: "/_assets/IMG_20230817_172738.jpg"  # Update with your file name
+      education:
+        institution: "Your University"
+        degree: "Master's in Electrical Engineering"
+        year: "2018 - 2022"
+      experience:
+        position: "Software Developer Intern"
+        company: "Tech Company"
+        year: "Summer 2021"
+      skills:
+        - "Programming Languages: Java, Python, HTML/CSS"
+        - "Web Development: React, Jekyll"
