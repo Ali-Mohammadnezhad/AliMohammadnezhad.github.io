@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+# Add the following lines to include your picture
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      image: "/_assets/IMG_20230817_172738.jpg"  # Update with your file name
